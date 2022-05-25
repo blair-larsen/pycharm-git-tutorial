@@ -16,6 +16,8 @@ if __name__ == '__main__':
     print_hi('Blair')
     print("where do you live")
 
+    print(" how old are you?")
+
 
     print(my_function(8, 8))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
