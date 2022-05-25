@@ -18,6 +18,8 @@ if __name__ == '__main__':
 
     print(" how old are you?")
 
+    print(" when were you born?")
+
 
     print(my_function(8, 8))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
